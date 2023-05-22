@@ -7,7 +7,7 @@
 
 1) Mindmap к требованиям к сервису Яндекс.Маршруты
 
-https://drive.google.com/file/d/1CbCOxkgAW_pJCE13xIt3kKPLg2nYeqoF/view?usp=share_link
+https://drive.google.com/file/d/1MyZQPfPKcKaAcv23N1SXyijoFfbHEaPA/view?usp=share_link
 
 2) Выделить классы эквивалентности и граничные значения для полей ввод
 
