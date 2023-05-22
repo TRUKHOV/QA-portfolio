@@ -2,7 +2,7 @@
 
 # Проекты выполненые в рамках обучения в Яндекс Практикуме, а также других проектах
 
-Проект №1: Яндекс Маршруты
+Проект №1 (Яндекс Практикум): Яндекс Маршруты
 
 1) Mindmap к требованиям к сервису Яндекс.Маршруты
 
@@ -19,3 +19,11 @@ https://docs.google.com/spreadsheets/d/1AgBsgj9WOQ44kp3CCKLu9iv341I2FSlsbyBaJ9QU
 4) Тест-кейсы логики интерфейса
 
 https://docs.google.com/spreadsheets/d/1_YOvLaP_Lk08jgjh0yjZqq3SmxO5tXUwXj_TWeE_4W0/edit?usp=sharing
+
+Проект №2 (Яндекс Практикум): Тестирование веб приложения Яндекс.Маршрут
+
+1) Чек-лист вёрстки
+
+https://docs.google.com/spreadsheets/d/1h5HMORJLSeG6koJCVJpM7RbWL_z44aRDcA0sE3GB5mU/edit?usp=sharing
+
+2) 
