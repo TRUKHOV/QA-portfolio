@@ -9,9 +9,6 @@
 https://drive.google.com/file/d/1MyZQPfPKcKaAcv23N1SXyijoFfbHEaPA/view?usp=share_link
 
 2) Классы эквивалентности и граничные значения для полей ввода (Часы, минуты, Откуда, Куда)
-- Поле ввода часов
-- Поле ввода минут
-- Поля ввода адреса (Откуда, Куда)
 
 https://docs.google.com/spreadsheets/d/1TAa9y-l3rc_ZEmNqSLK8JxMcMGNBNevWAs3ussc-o0U/edit?usp=sharing
 
