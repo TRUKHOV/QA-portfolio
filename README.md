@@ -58,5 +58,40 @@ https://docs.google.com/document/d/1bf2FY_cqfrizd861APeWSgN_YIiuGUFwb1GvaMG3W64/
 
 https://docs.google.com/document/d/1FI1r7D0_mMLqacBbdRaSDud67cpHSlypCdyHVwn5SWM/edit?usp=sharing
 
+Проект №5 (Теория тестирования, веб тестирвование, тестирование мобильного приложения, тестирование API приложения)
+
+1) Теория тестирования
+
+https://docs.google.com/spreadsheets/d/19IZ8BjN9n6HfSwpu-qXszfDl_wFNzYX1u0haea_hRpI/edit?usp=sharing
+
+2) Тестирование веб-приложение Яндекс.Самокат
+
+2.1) Mindmap функциональности формы заказа
+
+https://drive.google.com/file/d/1LwMvZ9Z45NUvszFT0Da5YHGoEl03R8oD/view?usp=share_link
+
+2.2) Чек-лист по требованиям к экрану «Статус заказа»
+
+https://docs.google.com/spreadsheets/d/1CUHpPkkG8Y6FcapOQ2yfYwwtB9NSxKy1zgg4Kq4LvGQ/edit?usp=sharing
+
+2.3) Валидация полей экрана «Сделать заказ»
+
+https://docs.google.com/spreadsheets/d/1M56Pkz-g41MG0g7WDnQszbTx-x-Muudotw60myqVXPI/edit?usp=sharing
+
+3) Тестирование мобильного приложения Яндекс.Самокат
+
+3.1) Тест-кейсы на функциональность
+
+https://docs.google.com/spreadsheets/d/1Tp6o9-H_DW_SUS4t2LegSeE3l5RIm9nUkcf9ZKE1AiE/edit?usp=sharing
+
+4) Тестирование API приложения Яндекс.Самокат
+
+https://docs.google.com/spreadsheets/d/1Ni6BFUS_6tb-72WfNQ6BiUnOMVanSNeKwGHiBVvCB18/edit?usp=sharing
+
+Спасибо за внимание)
+
+
+
+
 
 
