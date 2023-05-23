@@ -26,4 +26,14 @@ https://docs.google.com/spreadsheets/d/1_YOvLaP_Lk08jgjh0yjZqq3SmxO5tXUwXj_TWeE_
 
 https://docs.google.com/spreadsheets/d/1h5HMORJLSeG6koJCVJpM7RbWL_z44aRDcA0sE3GB5mU/edit?usp=sharing
 
-2) 
+2) Чек-лист окна способа оплаты и добавление карты
+
+https://docs.google.com/spreadsheets/d/1SEPIK3j5IvQq2paxA25apMEn5iirfv3TTvRbZDOmnEM/edit?usp=sharing
+
+3) Тест-кейсы на кнопки «Забронировать» и логика функциональности бронирования
+
+https://docs.google.com/spreadsheets/d/1p1PhOKz_lFkbSZr-IbeHSvc9kpTZnevXqaTNZLPiwQg/edit?usp=sharing
+
+4) Чек-лист на добавления нового вида траспорорта Аэротакси
+
+https://docs.google.com/spreadsheets/d/1pqmgxd64V0W_s_HQRZfcP43dwgc0shhC3jyYQSS7N-w/edit?usp=sharing
