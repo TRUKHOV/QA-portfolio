@@ -66,21 +66,19 @@ https://docs.google.com/spreadsheets/d/19IZ8BjN9n6HfSwpu-qXszfDl_wFNzYX1u0haea_h
 
 2) Тестирование веб-приложение Яндекс.Самокат
 
-2.1) Mindmap функциональности формы заказа
+  2.1) Mindmap функциональности формы заказа
 
 https://drive.google.com/file/d/1LwMvZ9Z45NUvszFT0Da5YHGoEl03R8oD/view?usp=share_link
 
-2.2) Чек-лист по требованиям к экрану «Статус заказа»
+  2.2) Чек-лист по требованиям к экрану «Статус заказа»
 
 https://docs.google.com/spreadsheets/d/1CUHpPkkG8Y6FcapOQ2yfYwwtB9NSxKy1zgg4Kq4LvGQ/edit?usp=sharing
 
-2.3) Валидация полей экрана «Сделать заказ»
+  2.3) Валидация полей экрана «Сделать заказ»
 
 https://docs.google.com/spreadsheets/d/1M56Pkz-g41MG0g7WDnQszbTx-x-Muudotw60myqVXPI/edit?usp=sharing
 
-3) Тестирование мобильного приложения Яндекс.Самокат
-
-3.1) Тест-кейсы на функциональность
+3) Тестирование мобильного приложения Яндекс.Самокат. Тест-кейсы на функциональность
 
 https://docs.google.com/spreadsheets/d/1Tp6o9-H_DW_SUS4t2LegSeE3l5RIm9nUkcf9ZKE1AiE/edit?usp=sharing
 
